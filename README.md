@@ -3,12 +3,12 @@ I AM A WEB DEVELOPER based in BahirDar,Ethiopia. I love working on web developme
 
 - 🔭 I’m currently working on Web developing and other programming languages...
 - 🌱 I’m currently learning Information System in BahirDar University poly campus in Regular program and department of Accounting in NewBlue University in distance program ,Ethiopia...
-- ##skills
+skills
      programming languages like: c++,Java,Phyton,scratch
-##tools
+-tools
 vs code,turbowrap scratch,Audio audition 
  reach me at: https://www.linkedin.com/in/bethlehem-mihiretie-490341341/
-bethlehemmihiretie@gmail.com...
+-bethlehemmihiretie@gmail.com...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to read fiction book and writing
 <!--
